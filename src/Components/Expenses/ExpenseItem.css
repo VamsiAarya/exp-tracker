@@ -1,0 +1,29 @@
+
+.expense-item {
+    width:95%;
+    height: 4rem;
+    margin: 1rem auto;
+    background-color: rgb(39, 36, 36);
+    border-radius: 0.5rem;
+    display: flex;
+    padding: 0.5rem;
+    justify-content:flex-start;
+    align-items: center;
+    text-align: center;
+    box-shadow: 1px 1px 8px rgb(195, 195, 195);
+}
+
+.expense-item__name{
+    color: beige;
+    border-radius: 0.5rem;
+    margin: auto 2rem;
+}
+
+.expense-item__price{
+    width: 5rem;
+    height: 4rem;
+    border-radius: 0.5rem;
+
+    background-color: aquamarine;
+    margin-left: auto;
+}

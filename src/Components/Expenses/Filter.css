@@ -1,0 +1,17 @@
+.filter {
+    position: relative;
+    /* left : 80%; */
+    margin: 0rem auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.filter select {
+    width: 5rem;
+    height: 1.8rem;
+}
+
+.filter >label {
+    color: cornsilk;
+}

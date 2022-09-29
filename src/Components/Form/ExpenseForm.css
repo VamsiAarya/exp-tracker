@@ -1,0 +1,20 @@
+
+label {
+    display: block;
+    margin: 0.5rem 0.25rem;
+    font-weight:bold ;
+}
+
+input.Expense-form{
+    width: 80%;
+    height: 2.25rem;
+    font-size: 1rem;
+}
+
+.Expense-form__button{
+    position: relative;
+    left: 60%;
+    width: 35%;
+    height:3rem;
+    margin: 0.5rem;
+}
